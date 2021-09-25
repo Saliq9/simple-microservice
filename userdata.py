@@ -19,5 +19,5 @@ users = {
         'email': 'suchi@mom.mail',
         'gender': 'female',
         'age': '47'
-    },
+    }
 }
