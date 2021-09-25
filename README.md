@@ -1,4 +1,4 @@
-A simple REST microservice example 
+A simple REST microservice example.
 It implements basic REST routes for an example user resource:
 (1) GET / : Welcome Message, 
 (2) GET /users : Retrieve all users and
