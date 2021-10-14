@@ -1,6 +1,7 @@
 Simple Microservice
 ----------------------
 A simple REST microservice example.
+
 It implements basic REST routes for a given user resource:
 
         GET / : Welcome Message, 
@@ -12,6 +13,8 @@ Dockerize
 Clone the repository : 
 
         git clone https://github.com/kriti242/simple-microservice
+
+Navigate to the simple-microservice directory 
 
 Build the image :
 
