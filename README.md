@@ -24,3 +24,5 @@ Run the container (port 5000):
 Visit the link in browser : 
 
         http://localhost:5000/
+        http://localhost:5000/users
+        http://localhost:5000/users/<user_id>
