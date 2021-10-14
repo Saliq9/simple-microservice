@@ -24,7 +24,7 @@ Run the container (port 5000):
 
         docker container run -it --name $NAME -d -p 5000:5000 $IMAGE-NAME
 
-Visit the link in browser : 
+Visit the links in browser : 
 
         http://localhost:5000/
         http://localhost:5000/users
